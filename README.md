@@ -13,3 +13,7 @@ humans dataset: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.
 - IPython
 - pytorch
 - Matplotlib
+
+
+#### To explore the notebook online
+click [here](https://nbviewer.jupyter.org/github/Afalqannas/project_dog_breed_classifier/blob/main/dog_app.ipynb)
