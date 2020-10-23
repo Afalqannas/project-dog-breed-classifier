@@ -1,3 +1,0 @@
-*.pt filter=lfs diff=lfs merge=lfs -text
-dogImages filter=lfs diff=lfs merge=lfs -text
-lfw filter=lfs diff=lfs merge=lfs -text
