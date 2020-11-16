@@ -1,6 +1,5 @@
 # project_dog_breed_classifier
-
-This is a project with Udacity Deep Learning Nanodegree
+Given an image of a dog, our algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 ### Data
 dogs dataset: click [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)   <br>
