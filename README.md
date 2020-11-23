@@ -12,6 +12,7 @@ humans dataset: click [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog
 - IPython
 - pytorch
 - Matplotlib
+- torchvision
 
 
 #### To explore the notebook online
